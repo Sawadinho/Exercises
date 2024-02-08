@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(159, 255, 223);
+    columns: 2;
+}
+
+.meu-nome {
+    color: rgb(25, 71, 122);
+}
+
+#despedida {
+    font-style: oblique;
+}
+
+p {
+    font-size: smaller;
+}
