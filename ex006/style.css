@@ -1,0 +1,17 @@
+h1 {
+    border: solid 5px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+img {
+    border-radius: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    color: red;
+}
