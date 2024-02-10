@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7p-AHb754pMOa4NT7KGHfRxwKKD4rc0gAA&usqp=CAU);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: rgba(41, 20, 59, 0.658);
+    margin: 100px 300px 0 300px;
+    border-radius: 20px 20px 0 0;
+}
+
+li {
+    color: white;
+    text-align: left;
+    background-color: rgba(41, 20, 59, 0.658);
+    margin: 0 300px 0 300px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
